@@ -1,0 +1,25 @@
+.container {
+    width: 1024px;
+    margin: 200px auto;
+    text-align: center;
+}
+.keys {
+    background-color: #8c7f7f;
+    border: 2px solid #402c2c;
+    padding: 20px;
+    width: 57px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+    font-weight: bold;
+    transition: all .5s linear
+}
+.span {
+    font-size: 12px;
+    padding-top: 10px;
+    display: block;
+    color: #fff;
+}
+.playing {
+    border: 2px solid #FFD700;
+}
